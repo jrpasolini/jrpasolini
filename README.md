@@ -36,6 +36,10 @@ Only credentials with a public verification link are listed here. The full Credl
 
 **MongoDB** (issued November 2026, newest first):
 
+- [Building AI Agents with MongoDB](https://www.credly.com/badges/75dbbe25-24e2-457f-b701-413046e9e8bd) — 22 Nov 2026
+- [Memory for AI Applications with MongoDB](https://www.credly.com/badges/ed8a4997-0f78-4c9f-9575-a7d3519c2c60) — 22 Nov 2026
+- [Building RAG Apps Using MongoDB](https://www.credly.com/badges/a92e162d-ce6c-4296-aa66-9848182d35d5) — 18 Nov 2026
+- [Building an App with Code Agents and MongoDB](https://www.credly.com/badges/df2a7cf1-f9b5-4b7b-a3d3-3b835027023c) — 16 Nov 2026
 - [Building AI-Powered Search with MongoDB Vector Search](https://www.credly.com/badges/9d1c7f4d-6d44-4a18-9a78-8459265e4da4) — 14 Nov 2026
 - [MongoDB Overview: Core Concepts and Architecture](https://www.credly.com/badges/f9f46a05-a61e-4c2a-aed5-226a5fde6b8f) — 13 Nov 2026
 - [MongoDB Aggregation Fundamentals](https://www.credly.com/badges/491dc07b-9b2f-4187-8567-16beab5a92cc) — 12 Nov 2026
